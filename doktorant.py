@@ -158,7 +158,7 @@ async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
     buttons = [
         [InlineKeyboardButton("1️⃣ Doktorantura PhD/DSc", callback_data="dir_doktorantura")],
         [InlineKeyboardButton("2️⃣ Mustaqil Tadqiqotchilik", callback_data="dir_mustaqil")],
-        [InlineKeyboardButton("3️⃣ XalqaroTadqiqotchilik", callback_data="dir_xalqaro")],
+        [InlineKeyboardButton("3️⃣ Xalqaro Tadqiqotchilik", callback_data="dir_xalqaro")],
         [InlineKeyboardButton("4️⃣ Stajor-Tadqiqotchilik", callback_data="dir_stajyor")]
     ]
     reply_markup = InlineKeyboardMarkup(buttons)
