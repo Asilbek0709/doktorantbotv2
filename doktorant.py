@@ -81,6 +81,7 @@ qa_data = {
 
 
     },
+    
     "xalqaro": {
         "Chet el fuqarolari mustaqil izlanuvchilikka hujjat topshirishning dastlabki bosqichi haqida ma’lumot bering.":
             "Siz dastlab DARAJA.ILMIY.UZ platformasiga kirib xorijiy izlanuvchi sifatida ro‘yxatdan o‘tishingiz va so’ralgan hujjatlarni yuklashingiz kerak. https://uzjoku.uz/uz/aktivnost-anown8qshe/ilmiy-faoliyat-up/scientificactivity ",
@@ -115,7 +116,7 @@ qa_data = {
         "Dissertatsiyani qaysi tilda yozish mumkun?":
             "O‘zbekiston Respublikasi qonunchiligiga muvofiq dissertatsiya o‘zbek, rus, ingliz va qoraqalpoq tillarida yozilishi mumkun.",
     
-    }
+    },
 
 
     "stajyor": {
@@ -129,7 +130,7 @@ qa_data = {
             "Hujjatlar 15-sentyabrdan – 15-oktyabrgacha qabul qilinadi. Aniq muddat universitet saytida e'lon qilinadi. (https://t.me/uzjmcu, https://uzjoku.uz/uz)",
         "Qabul imtihonlari qanday shaklda o'tadi?":
             "10.00.09 Jurnalistika, 23.00.02 – Siyosiy institutlar, jarayonlar va texnologiyalar Ixtisosligi fanidan yozma imtihon va suhbat shaklida tashkil etiladi. 4 SAVOL: , yozma, tadqiqotchining ilmiy ishi bo`yicha 1 ta SAVOL: og‘zaki shaklda bo‘ladi \n – Xorijlik doktorantlar faqat suhbat asosida qabul qilinadi.",
-        "Stajor-tadqiqotchilikda (PhD) o'qish qancha vaqt davom etadi?";
+        "Stajor-tadqiqotchilikda (PhD) o'qish qancha vaqt davom etadi?":
             "Stajor-tadqiqotchilikda tahsil olish muddati 1 yil. (Shu muddat ichida tadqiqotchi dissertatsiya mavzusini kafedra muhokamasidan o‘tkazib, ishning ilmiy konsepsiyasini shakllantirishi kerak)",
         "Stajor-tadqiqotchilarga stipendiya to'lanadimi?":
             "Ha, stajor-tadqiqotchilarga har oy belgilangan miqdorda stipendiya to'lanadi. (xorijiy stajor-tadqiqotchilarga to'lanmaydi)",
