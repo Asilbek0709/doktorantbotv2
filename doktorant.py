@@ -35,6 +35,8 @@ qa_data = {
         "Mavzu, maqsad, vazifa, yangilik, amaliy ahamiyat, metodlar keltiriladi.",
     "Tavsifnoma qanday olinadi?":
         "Ish joyidan yoki ilmiy rahbardan. Unda sizning ilmiy salohiyatingiz ko‘rsatiladi.",
+    "Eng muhim va asosiy masalalar bo‘yicha materiallar bilan tanishish":
+        "Eng muhim va asosiy masalalar bo‘yicha materiallar bilan quyidagi havola orqali tanishishingiz mumkin https://uzjoku.uz/uz/aktivnost-anown8qshe/ilmiy-faoliyat-up/scientificactivity",
 }
 
 # Генерируем список вопросов и ID
