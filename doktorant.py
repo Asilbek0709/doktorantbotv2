@@ -10,7 +10,7 @@ qa_data = {
         "- Mehnat faoliyati hujjati (agar mavjud bo‘lsa)\n- Ilmiy rahbar rozilik xati\n- Pasport nusxasi\n"
         "- Xorijiy til sertifikati (PDF, 5MB gacha)",
     "PhD yo‘nalishiga qabul qilinish uchun ariza shakli qanday yoziladi?":
-        "Ariza namunasini yuklab oling.",
+        "Hujjatlar namunasini quydagi havola orqali yuklab oling. https://uzjoku.uz/uz/aktivnost-anown8qshe/ilmiy-faoliyat-up/scientificactivity/avqd9xj375gknz2owqsnsna05vnbytlanuyizchnpijqy9o5hk",
     "Doktoranturaga hujjat qabul qilish muddati qachon boshlanadi?":
         "15-sentabrdan 15-oktabrgacha. Aniq muddat universitet saytida e'lon qilinadi: https://uzjoku.uz/uz",
     "Qabul imtihonlari qanday shaklda o'tadi?":
