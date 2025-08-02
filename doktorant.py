@@ -221,7 +221,7 @@ async def handle_back(update: Update, context: ContextTypes.DEFAULT_TYPE):
 
 # Основной запуск
 def main():
-    app = Application.builder().token("7808860481:AAHDoydehllfSz6o_PeDo5CKb5eFo0Ua-3M").build()
+    app = Application.builder().token("7808860481:AAESrJ8IvMwkCB7ez0Quiw3Tu737FTpVxOo").build()
 
     app.add_handler(CommandHandler("start", start))
     app.add_handler(CallbackQueryHandler(handle_direction, pattern="^dir_"))
@@ -233,3 +233,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
